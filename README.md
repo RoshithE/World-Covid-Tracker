@@ -14,4 +14,4 @@ This is an interactive Viz which shows how many COVID cases and deaths across th
 3) On the right bottom one particular country can be selected to view thier new case and death rate for the day
 4) Top left dashboard shows a world map that conveys the total cases and deaths around the world
 
-P.S. Please be patient to see the full potential of the viz because during the early stages (Jan-Mar) there are not much cases and the viz is pretty empty. Towards the start of May the viz gets more data and there are lots of things to observe
+P.S. Please be patient to see the full potential of the viz because during the early stages (Jan-Mar) there are not much cases and the viz is pretty empty. Towards the start of May the viz gets more data and there are lots of things to be observed.
