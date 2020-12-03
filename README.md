@@ -6,6 +6,7 @@ This is an interactive Viz which shows how many COVID cases and deaths across th
 1) Have Tableau desktop installed in your PC and download the twb file 
 
 2) Use the Tableau Public link to go to my profile. The Viz can be selected from my profile and viewed on the browser with no additional softwares.
+   https://public.tableau.com/profile/roshith.elangovan#!/vizhome/CovidTracker_16070163156370/Dashboard1
 
 
 **How to use the viz?**
